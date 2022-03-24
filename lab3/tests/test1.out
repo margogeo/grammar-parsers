@@ -1,0 +1,8 @@
+print(f(1))
+print(__g__(2))
+OIOI0IOI0 = int(input())
+
+I11001010=2874+2983
+O0OI0IOI0 = f(1) + __g__(2) + f(__g__(OIOI0IOI0))
+print(O0OI0IOI0)
+IOI10OI101OI0=2064+8483
